@@ -1,0 +1,5 @@
+Links de Google Drive
+
+Notebook: https://colab.research.google.com/drive/1ER6LzyBLJyhAqbNbAU9uGtLpxXkfY-Nl?usp=sharing
+
+Dataset: https://drive.google.com/file/d/1xHE9J8Rm5XrIIv5KphLRWLbz1ts-iOzl/view?usp=sharing
